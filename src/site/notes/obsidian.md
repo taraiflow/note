@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"dg-permalink":"20251227160845","permalink":"/20251227160845/"}
+{"dg-publish":true,"dg-permalink":"20251227160845","permalink":"/20251227160845/","created":"2025-12-27T16:08:45.983+09:00","updated":"2025-12-27T16:52:19.186+09:00"}
 ---
 
