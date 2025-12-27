@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/processing/tarai-note/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"20250830230114","permalink":"/20250830230114/","tags":["gardenEntry"]}
 ---
 
 ### About the Author
